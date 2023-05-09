@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "purediscstrailstales",
+  "version": "1.0.0",
+  "name": "Pure Discs - Trails & Tales",
+  "description": "Adds five new songs that were added to the game with the 1.20 Trails and Tales update!",
+  "authors": [
+    "purejosh"
+  ],
+  "contact": {
+    "homepage": "https://legacy.curseforge.com/minecraft/mc-mods/pure-discs-trails-tales-fabric-forge",
+    "sources": ""
+  },
+  "license": "Custom license",
+  "icon": "assets/purediscstrailstales/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.purejosh.purediscstrailstales.PurediscstrailstalesMod"
+    ],
+    "client": [
+      "net.purejosh.purediscstrailstales.ClientInit"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.9",
+    "fabric": "*",
+    "minecraft": "~1.19",
+    "java": ">=17"
+  },
+  "mixins": [
+    "purediscstrailstales.mixins.json"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "_fv": 39,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Music Disc",
+    "texture": "music_disc_bromeliad",
+    "description": "Aaron Cherof - Bromeliad",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "specialInfo": [],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:bromeliad"
+    },
+    "lengthInTicks": 6245,
+    "analogOutput": 14
+  }
+}

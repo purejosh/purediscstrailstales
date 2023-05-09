@@ -1,0 +1,19 @@
+{
+  "_fv": 39,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Music Disc",
+    "texture": "music_disc_echo_in_the_wind",
+    "description": "Aaron Cherof - Echo in the Wind",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "specialInfo": [],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:echo_in_the_wind"
+    },
+    "lengthInTicks": 5923,
+    "analogOutput": 14
+  }
+}

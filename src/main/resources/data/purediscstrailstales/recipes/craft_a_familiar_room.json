@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "purediscstrailstales:music_disc_relic"
+    },
+    {
+      "item": "minecraft:red_bed"
+    }
+  ],
+  "result": {
+    "item": "purediscstrailstales:music_disc_a_familiar_room",
+    "count": 1
+  }
+}

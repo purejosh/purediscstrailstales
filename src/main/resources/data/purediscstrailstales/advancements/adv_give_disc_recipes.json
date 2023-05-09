@@ -1,0 +1,29 @@
+{
+  "criteria": {
+    "adv_give_disc_recipes": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "purediscstrailstales:music_disc_relic"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 0,
+    "recipes": [
+      "purediscstrailstales:craft_a_familiar_room",
+      "purediscstrailstales:craft_bromeliad",
+      "purediscstrailstales:craft_crescent_dunes",
+      "purediscstrailstales:craft_echo_in_the_wind"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "purediscstrailstales:music_disc_relic"
+    },
+    {
+      "item": "minecraft:chiseled_sandstone"
+    },
+    {
+      "item": "minecraft:chiseled_red_sandstone"
+    }
+  ],
+  "result": {
+    "item": "purediscstrailstales:music_disc_crescent_dunes",
+    "count": 1
+  }
+}
