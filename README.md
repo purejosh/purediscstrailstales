@@ -16,3 +16,4 @@ Please join our [Discord](https://discord.com/invite/X6AsDnqex6) for any additio
 
 ## License
 [MIT-R-NR](https://github.com/purejosh/purediscstrailstales/blob/master/LICENSE.txt)
+ 
