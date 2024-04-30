@@ -34,14 +34,5 @@
         "stream": true
       }
     ]
-  },
-  "relic": {
-    "category": "record",
-    "sounds": [
-      {
-        "name": "purediscstrailstales:aaron_cherof_-_relic",
-        "stream": true
-      }
-    ]
   }
 }

@@ -4,7 +4,7 @@ Pure Discs - Trails & Tales adds five new songs that were added to the game with
 
 ## Download
 
-Get the latest download for your mod loader at [CurseForge](https://legacy.curseforge.com/minecraft/mc-mods/pure-discs-trails-tales-fabric-forge).
+Get the latest download for your mod loader at [CurseForge](https://www.curseforge.com/minecraft/mc-mods/purediscstrailstales) or [Modrinth](https://modrinth.com/mod/purediscstrailstales).
 
 ## Issues or Suggestions
 

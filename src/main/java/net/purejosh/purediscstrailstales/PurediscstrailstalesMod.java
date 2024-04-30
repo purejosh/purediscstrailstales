@@ -16,7 +16,6 @@ import org.apache.logging.log4j.Logger;
 import org.apache.logging.log4j.LogManager;
 
 import net.purejosh.purediscstrailstales.init.PurediscstrailstalesModSounds;
-import net.purejosh.purediscstrailstales.init.PurediscstrailstalesModProcedures;
 import net.purejosh.purediscstrailstales.init.PurediscstrailstalesModItems;
 
 import net.fabricmc.api.ModInitializer;
@@ -30,8 +29,6 @@ public class PurediscstrailstalesMod implements ModInitializer {
 		LOGGER.info("Initializing PurediscstrailstalesMod");
 
 		PurediscstrailstalesModItems.load();
-
-		PurediscstrailstalesModProcedures.load();
 
 		PurediscstrailstalesModSounds.load();
 

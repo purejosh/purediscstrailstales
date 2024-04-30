@@ -1,8 +1,9 @@
 {
   "type": "minecraft:crafting_shapeless",
+  "category": "misc",
   "ingredients": [
     {
-      "item": "purediscstrailstales:music_disc_relic"
+      "item": "minecraft:music_disc_relic"
     },
     {
       "item": "minecraft:red_bed"

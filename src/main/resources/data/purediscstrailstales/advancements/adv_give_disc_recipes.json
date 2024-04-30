@@ -6,7 +6,7 @@
         "items": [
           {
             "items": [
-              "purediscstrailstales:music_disc_relic"
+              "minecraft:music_disc_relic"
             ],
             "count": {
               "min": 1,
