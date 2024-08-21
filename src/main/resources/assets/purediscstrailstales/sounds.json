@@ -1,37 +1,29 @@
 {
-  "echo_in_the_wind": {
-    "category": "record",
+  "music_disc.echo_in_the_wind": {
     "sounds": [
       {
-        "name": "purediscstrailstales:aaron_cherof_-_echo_in_the_wind",
-        "stream": true
+        "name": "purediscstrailstales:echo_in_the_wind"
       }
     ]
   },
-  "a_familiar_room": {
-    "category": "record",
+  "music_disc.a_familiar_room": {
     "sounds": [
       {
-        "name": "purediscstrailstales:aaron_cherof_-_a_familiar_room",
-        "stream": true
+        "name": "purediscstrailstales:a_familiar_room"
       }
     ]
   },
-  "bromeliad": {
-    "category": "record",
+  "music_disc.bromeliad": {
     "sounds": [
       {
-        "name": "purediscstrailstales:aaron_cherof_-_bromeliad",
-        "stream": true
+        "name": "purediscstrailstales:bromeliad"
       }
     ]
   },
-  "crescent_dunes": {
-    "category": "record",
+  "music_disc.crescent_dunes": {
     "sounds": [
       {
-        "name": "purediscstrailstales:aaron_cherof_-_crescent_dunes",
-        "stream": true
+        "name": "purediscstrailstales:crescent_dunes"
       }
     ]
   }

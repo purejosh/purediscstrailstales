@@ -1,34 +1,42 @@
 {
-  "schemaVersion": 1,
-  "id": "purediscstrailstales",
-  "version": "1.0.1",
-  "name": "Pure Discs - Trails & Tales",
-  "description": "Adds five new songs that were added to the game with the 1.20 Trails and Tales update!",
-  "authors": [
-    "purejosh"
-  ],
-  "contact": {
-    "homepage": "https://legacy.curseforge.com/minecraft/mc-mods/purediscstrailstales",
-    "sources": ""
-  },
-  "license": "Custom license",
-  "icon": "assets/purediscstrailstales/icon.png",
-  "environment": "*",
-  "entrypoints": {
-    "main": [
-      "net.purejosh.purediscstrailstales.PurediscstrailstalesMod"
-    ],
-    "client": [
-      "net.purejosh.purediscstrailstales.ClientInit"
-    ]
-  },
-  "depends": {
-    "fabricloader": ">=0.14.21",
-    "fabric": "*",
-    "minecraft": "~1.20",
-    "java": ">=17"
-  },
-  "mixins": [
-    "purediscstrailstales.mixins.json"
-  ]
+	"schemaVersion": 1,
+	"id": "purediscstrailstales",
+	"version": "2.0.0",
+	"name": "Pure Discs - Trails & Tales",
+	"description": "Adds four new discs from songs that were added to the game with the 1.20 Trails & Tales update!",
+	"authors": [
+		"purejosh"
+	],
+	"contact": {
+		"homepage": "https://legacy.curseforge.com/minecraft/mc-mods/purediscstrailstales",
+		"sources": "https://github.com/purejosh/purediscstrailstales",
+		"issues": "https://github.com/purejosh/purediscstrailstales/issues"
+	},
+	"license": "MIT-R-NR",
+	"icon": "assets/purediscstrailstales/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.purejosh.purediscstrailstales.PureDiscsTrailsTales"
+		],
+		"client": [
+			"net.purejosh.purediscstrailstales.PureDiscsTrailsTalesClient"
+		]
+	},
+	"mixins": [
+		"purediscstrailstales.mixins.json",
+		{
+			"config": "purediscstrailstales.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": "~1.21",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
 }

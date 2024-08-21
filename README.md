@@ -1,6 +1,6 @@
 # Pure Discs - Trails & Tales
 
-Pure Discs - Trails & Tales adds five new songs that were added to the game with the 1.20 Trails and Tales update! 
+Pure Discs - Trails & Tales adds four new songs that were added to the game with the 1.20 Trails and Tales update! 
 
 ## Download
 
@@ -15,5 +15,5 @@ Please open an issue in Github, and choose [Bug](https://github.com/purejosh/pur
 Please join our [Discord](https://discord.com/invite/X6AsDnqex6) for any additional assistance.
 
 ## License
-[MIT-R-NR](https://github.com/purejosh/purediscstrailstales/blob/master/LICENSE.txt)
+[MIT-R-NR](https://github.com/purejosh/purediscstrailstales/blob/1.21/LICENSE)
  
