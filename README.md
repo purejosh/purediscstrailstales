@@ -1,6 +1,6 @@
 # Pure Discs - Trails & Tales
 
-Pure Discs - Trails & Tales adds four new songs that were added to the game with the 1.20 Trails and Tales update! 
+Pure Discs - Trails & Tales adds four new discs from songs that were added to the game with the 1.20 Trails & Tales update! 
 
 ## Download
 
