@@ -1,8 +1,10 @@
 {
     "comparator_output": 14,
-    "description": "Aaron Cherof - Crescent Dunes",
+    "description": {
+        "translate": "item.purediscstrailstales.music_disc_crescent_dunes.desc"
+    },
     "length_in_seconds": 248.4,
     "sound_event": {
       "sound_id": "purediscstrailstales:music_disc.crescent_dunes"
     }
- }
+}

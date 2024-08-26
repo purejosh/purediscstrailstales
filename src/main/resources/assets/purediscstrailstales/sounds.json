@@ -1,11 +1,4 @@
 {
-  "music_disc.echo_in_the_wind": {
-    "sounds": [
-      {
-        "name": "purediscstrailstales:echo_in_the_wind"
-      }
-    ]
-  },
   "music_disc.a_familiar_room": {
     "sounds": [
       {
@@ -24,6 +17,13 @@
     "sounds": [
       {
         "name": "purediscstrailstales:crescent_dunes"
+      }
+    ]
+  },
+  "music_disc.echo_in_the_wind": {
+    "sounds": [
+      {
+        "name": "purediscstrailstales:echo_in_the_wind"
       }
     ]
   }

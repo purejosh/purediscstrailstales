@@ -1,8 +1,10 @@
 {
     "comparator_output": 14,
-    "description": "Aaron Cherof - A Familiar Room",
+    "description": {
+        "translate": "item.purediscstrailstales.music_disc_a_familiar_room.desc"
+    },
     "length_in_seconds": 241,
     "sound_event": {
       "sound_id": "purediscstrailstales:music_disc.a_familiar_room"
     }
- }
+}

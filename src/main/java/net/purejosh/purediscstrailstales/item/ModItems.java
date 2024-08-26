@@ -1,4 +1,3 @@
-
 package net.purejosh.purediscstrailstales.item;
 
 import net.minecraft.item.Item;
